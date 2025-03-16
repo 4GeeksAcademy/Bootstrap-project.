@@ -10,3 +10,13 @@
     background-color: #3D8D7A;
     color: white;
 }
+h4{
+    color: #3D8D7A;
+}
+.date{
+    color:#A3D1C6;
+}
+button :hover{
+    background-color: #3D8D7A;
+    
+}
