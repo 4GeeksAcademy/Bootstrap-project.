@@ -1,0 +1,12 @@
+.image{
+    width: 415px;
+    height: 250px;
+}
+.container-fluid{
+    background-color: #B7B1F2;
+    margin-top: 0px;
+}
+.color{
+    background-color: #FDB7EA;
+    color: white;
+}
