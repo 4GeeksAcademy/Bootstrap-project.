@@ -9,14 +9,44 @@
 .color{
     background-color: #3D8D7A;
     color: white;
+    border: none;
+    border-radius: 7px;
+    padding: 7px;
 }
-h4{
+h5{
     color: #3D8D7A;
 }
 .date{
     color:#A3D1C6;
 }
-button :hover{
-    background-color: #3D8D7A;
+.post{
+    background-color:#3D8D7A ;
+    color: white;
+    border: none;
+    margin: 3px;
+    padding: 7px;
+    border-radius: 7px;
     
 }
+.bttn{
+    border-radius: 5px;
+    border:grey solid 1px;
+    width: 40px;
+    height: 30px;
+}
+.post-headar{
+    display: flex;
+    justify-content: space-between;
+}
+.close-button{
+    border-radius: 6px;
+    background-color: #3D8D7A;
+    border: none;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 30px;
+    width: 30px;
+}
+
